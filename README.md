@@ -7,5 +7,7 @@ Technical Details:
 I have used several Angular Modules, Component and Services to build this project.  I have used Angular concepts like Driven forms, Reactive forms, Angular Bootstrap(ngx-localstorage), Routing(Including Child Routes or Nested routes), Lazy Loading technique, canActivate(Router Guard), Router Resolver(Component Interaction), HTTP REST calls  and rxjs Observables etc. Project is completed AOT compilation.
 
 Steps to make sure to run project:
+
 Step 1: npm install bootstrap
+
 Step 2: npm install ngx-localstorage --save
