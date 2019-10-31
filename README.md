@@ -11,3 +11,5 @@ Steps to make sure to run project:
 Step 1: npm install bootstrap
 
 Step 2: npm install ngx-localstorage --save
+
+"ng build --prod" is to complete AOT compilation
