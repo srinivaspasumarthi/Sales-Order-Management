@@ -12,6 +12,8 @@ Step 1: npm install bootstrap
 
 Step 2: npm install ngx-localstorage --save
 
+Step 3: npm install ngx-filter-pipe --save
+
 "ng build --prod" is to complete AOT compilation
 
 app.js file contains REST APIs used for this project.
